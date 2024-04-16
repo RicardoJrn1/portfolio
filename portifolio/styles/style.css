@@ -118,3 +118,9 @@ body {
     font-size: 24px;
     font-weight: 400;
 }
+
+.apresentacao__imagem__about {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+}
